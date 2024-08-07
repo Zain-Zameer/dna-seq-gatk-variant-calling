@@ -1,4 +1,5 @@
 # Snakemake workflow: dna-seq-gatk-variant-calling
+Author: Muhammad Zain Practice
 
 [![DOI](https://zenodo.org/badge/139045164.svg)](https://zenodo.org/badge/latestdoi/139045164)
 [![Snakemake](https://img.shields.io/badge/snakemake-≥6.1.0-brightgreen.svg)](https://snakemake.github.io)
